@@ -306,7 +306,7 @@ header .navigation.active {
     width: 100%;
     min-height: 100vh;
     background:  linear-gradient(rgba(0, 0, 0, 0.9),
-    rgba(0, 0, 0, 0.1)), url("/img/exception.jpg");
+    rgba(0, 0, 0, 0.1)), url("img/exception.jpg");
     background-size: cover;
     background-position:center;
     display:flex;
